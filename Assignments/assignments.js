@@ -9,3 +9,4 @@ let population = '332,278,200';
 console.log(country);
 console.log(continent);
 console.log(population);
+
