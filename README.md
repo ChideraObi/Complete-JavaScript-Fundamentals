@@ -29,10 +29,11 @@ Check out the FAQ for details on why I took the course, what I used and aftertho
 
 **A:** Of course! As I go through the course, I'll include a link to each project. You can expect to see the following projects:
  <br>
-- Pig Game
-    - DOM Manipulation)
-- Bankist 
-    - Arrays, Numbers, Dates, Timers. Fake "log in" with user js and PIN 1111
+- [ ] Pig Game
+    - DOM Manipulation
+- [x] Bankist 
+    - Arrays, Numbers, Dates, Timers.
+    - Fake "log in" with user js and PIN 1111
 - Bankist Site
     - Advanced DOM and Events
 - Mapty
