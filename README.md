@@ -20,42 +20,23 @@ Check out the FAQ for details on why I took the course, what I used and aftertho
 
 ### Q2: What tools/programs did you use?
 
-**A:** I primarily used **Visual Studio Code** and the **[Go Live](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension** to rapidly preview edits/changes. In true developer fashion, I went to Google, YouTube, and/or Stack Overflow whenever I hit a roadblock.  
-<p>
-- Netlify
-</p>
+**A:** I primarily used **Visual Studio Code** and the **[Go Live](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension** to rapidly preview edits/changes. If I hit a roadblock, I would look over the instructionsor search for similar scenarios on Youtube or Stack Overflow whenever.
 
 ### Q3: Can I see the final version of the course projects?
 
-**A:** Of course! As I go through the course, I'll include a link to each project. You can expect to see the following projects:
+**A:** Of course! As I go through the course, I'll include a link to each project. You can expect to see the following projects and skillsets:
  <br>
 - [ ] Pig Game
     - DOM Manipulation
-- [x] Bankist 
+- [ ] Bankist 
     - Arrays, Numbers, Dates, Timers.
     - Fake "log in" with user js and PIN 1111
-- Bankist Site
+- [ ] Bankist Site
     - Advanced DOM and Events
-- Mapty
+- [ ] Mapty
     - OOP, Geolocation, Project planning
-- Forkify
+- [ ] Forkify
     - Final advanced project
-
-
-### Q4: What else do you know?
-
-**A:** 
-Languages
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</p>
-Tools:
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
 
 ### Q4: What do you plan to studying next?
 
