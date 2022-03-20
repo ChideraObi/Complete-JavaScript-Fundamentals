@@ -29,7 +29,8 @@ Check out the FAQ for details on why I took the course, what I used and aftertho
 
 **A:** Of course! As I go through the course, I'll include a link to each project. You can expect to see the following projects:
  <br>
-- Pig Game (DOM Manipulation)
+- [ ] Pig Game 
+- - DOM Manipulation
 - Bankist (Arrays, Numbers, Dates, Timers. Fake "log in" with user js and PIN 1111)
 - Bankist Site (Advanced DOM and Events)
 - Mapty (OOP, Geolocation, Project planning)
@@ -46,7 +47,6 @@ Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </p>
-<br>
 Tools:
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
